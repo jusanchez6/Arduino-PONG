@@ -83,6 +83,8 @@ void loop() {
 
 //Agregar función para el sonido
 void sound(){
+  int volumen = 100;
+  
 
 }
 
