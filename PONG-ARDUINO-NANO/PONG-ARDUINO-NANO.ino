@@ -81,6 +81,11 @@ void loop() {
   win_dect();  
 }
 
+//Agregar función para el sonido
+void sound(){
+
+}
+
 void Calculate_mov() {
 
   int controlA = analogRead(PlayerA);
